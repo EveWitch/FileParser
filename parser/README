@@ -1,0 +1,6 @@
+To launch the application
+1. go to the parser folder
+2. run command : mvn clean install
+3. run command java -jar "\target\parser-0.0.1-SNAPSHOT.jar" orders1.csv orders2.json
+If error Unable to access jarfile appears try to write absolute path to jarfile
+

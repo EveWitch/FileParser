@@ -1,0 +1,20 @@
+[
+  {
+    "orderId" : 10,
+    "amount" : 1.25,
+    "currency" : "USD",
+    "comment" : "payment"
+  },
+  {
+    "orderId" : 11,
+    "amount" : 1.000,
+    "currency" : "USD",
+    "comment" : "payment"
+  },
+  {
+    "orderId" : 12,
+    "amount" : "LOLOLO",
+    "currency" : "USD",
+    "comment" : "payment"
+  }
+]
